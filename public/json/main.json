@@ -1,0 +1,169 @@
+{
+   "pagInicio": {
+      "principal": {
+         "primerTitulo": "Impresiones 3D",
+         "primerImagen": "img/jardinero2.jpeg",
+         "primerAltImagen": "Objetos impresos en 3D - En3Decoro",
+         "primerDescripcion": "En3Decoro creamos diseños personalizados de objetos o accesorios tridimensionales en impresión 3D de alta calidad. Nuestras impresiones dan un toque mágico y especial en el hogar, oficina o se puede convertir en un regalo ideal.",
+         "segundoTitulo": "Fabricación",
+         "segundaImagen": "img/jardineroBlanco.jpeg",
+         "segundoAltImagen": "Objetos impresos en 3D - En3Decoro",
+         "segundaDescripcion": "El filamento que utilizados es Poliácido Láctico (PLA) que es un material biodegradable que procede de materia orgánica. Los tiempos de impresión se establecen de acuerdo al diseño o elemento seleccionado y oscila entre 3 a 5 días. Los gastos de envío no se incluyen dentro de los valores de cada una de nuestras impresiones."
+      },
+      "contacto": {
+         "titulo": "Pide tu diseño",
+         "contenido": "Contáctanos y pide el diseño que quieras o crea tu propio diseño. Nosotros te asesoramos, solo escríbenos."
+      }
+   },
+   "pagProductos": {
+      "caractGenerales": [
+         "Altura desde la base 8.6 cm.",
+         "Diámetro máximo de la cabeza 6.8 cm.",
+         "Diámetro del agujero 6 cm.",
+         "Profundidad mínima 57.7 mm.",
+         "Ancho mínimo base 3.2 cm."
+      ],
+      "productos": [
+         {
+            "id": "jardinero1",
+            "img": [
+               "/img/prueba.png",
+               "/img/fondoContacto.webp",
+               "/img/jardineroBlanco.jpeg",
+               "/img/jardinero2.jpeg"
+            ],
+            "nombre": "Jardinero uno",
+            "colores": "Negro, blanco, rosado.",
+            "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+            "tipo": "jardineros",
+            "precio": 6000
+         },
+         {
+            "id": "jardinero2",
+            "img": [
+               "/img/prueba.png",
+               "/img/fondoContacto.webp",
+               "/img/jardineroBlanco.jpeg",
+               "/img/jardinero2.jpeg"
+            ],
+            "nombre": "Jardinero dos",
+            "colores": "Negro, blanco, rosado.",
+            "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+            "tipo": "jardineros",
+            "precio": 6000
+         },
+         {
+            "id": "jardinero3",
+            "img": [
+               "/img/prueba.png",
+               "/img/fondoContacto.webp",
+               "/img/jardineroBlanco.jpeg",
+               "/img/jardinero2.jpeg"
+            ],
+            "nombre": "Jardinero tres",
+            "colores": "Negro, blanco, rosado.",
+            "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+            "tipo": "jardineros",
+            "precio": 6000
+         },
+         {
+            "id": "maceta1",
+            "img": [
+               "/img/prueba.png",
+               "/img/fondoContacto.webp",
+               "/img/jardineroBlanco.jpeg",
+               "/img/jardinero2.jpeg"
+            ],
+            "nombre": "Maceta uno",
+            "colores": "Negro, blanco, rosado.",
+            "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+            "tipo": "macetas",
+            "precio": 6000
+         },
+         {
+            "id": "maceta2",
+            "img": [
+               "/img/prueba.png",
+               "/img/fondoContacto.webp",
+               "/img/jardineroBlanco.jpeg",
+               "/img/jardinero2.jpeg"
+            ],
+            "nombre": "Maceta dos",
+            "colores": "Negro, blanco, rosado.",
+            "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+            "tipo": "macetas",
+            "precio": 6000
+         },
+         {
+            "id": "maceta3",
+            "img": [
+               "/img/prueba.png",
+               "/img/fondoContacto.webp",
+               "/img/jardineroBlanco.jpeg",
+               "/img/jardinero2.jpeg"
+            ],
+            "nombre": "Maceta tres",
+            "colores": "Negro, blanco, rosado.",
+            "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+            "tipo": "macetas",
+            "precio": 6000
+         },
+         {
+            "id": "accesorio1",
+            "img": [
+               "/img/prueba.png",
+               "/img/fondoContacto.webp",
+               "/img/jardineroBlanco.jpeg",
+               "/img/jardinero2.jpeg"
+            ],
+            "nombre": "Accesorio uno",
+            "colores": "Negro, blanco, rosado.",
+            "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+            "tipo": "accesorios",
+            "precio": 6000
+         },
+         {
+            "id": "accesorio2",
+            "img": [
+               "/img/prueba.png",
+               "/img/fondoContacto.webp",
+               "/img/jardineroBlanco.jpeg",
+               "/img/jardinero2.jpeg"
+            ],
+            "nombre": "Accesorio dos",
+            "colores": "Negro, blanco, rosado.",
+            "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+            "tipo": "accesorios",
+            "precio": 6000
+         },
+         {
+            "id": "accesorio3",
+            "img": [
+               "/img/prueba.png",
+               "/img/fondoContacto.webp",
+               "/img/jardineroBlanco.jpeg",
+               "/img/jardinero2.jpeg"
+            ],
+            "nombre": "Accesorio tres",
+            "colores": "Negro, blanco, rosado.",
+            "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+            "tipo": "accesorios",
+            "precio": 6000
+         },
+         {
+            "id": "accesorio4",
+            "img": [
+               "/img/prueba.png",
+               "/img/fondoContacto.webp",
+               "/img/jardineroBlanco.jpeg",
+               "/img/jardinero2.jpeg"
+            ],
+            "nombre": "Accesorio cuatro",
+            "colores": "Negro, blanco, rosado.",
+            "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+            "tipo": "accesorios",
+            "precio": 8000
+         }
+      ]
+   }
+}
