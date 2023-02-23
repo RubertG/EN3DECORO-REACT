@@ -11,10 +11,10 @@ const URL = "../json/main.json"
 
 function App() {
 
-   const { data, setData } = useLoadProduct(URL)
+   const { data } = useLoadProduct(URL)
 
    return (
-      <DataContext.Provider value={{ data, setData }}>
+      <DataContext.Provider value={{ data }}>
          <RooterPrincipal />
       </DataContext.Provider>
    )

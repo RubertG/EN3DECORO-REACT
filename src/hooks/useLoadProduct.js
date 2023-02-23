@@ -19,6 +19,6 @@ export function useLoadProduct(url) {
 
    return {
       data,
-      setData
+      conseguirDatos
    }
 } 

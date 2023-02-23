@@ -10,7 +10,7 @@ export const ProductoDesc = () => {
 
    const { data } = useContext(DataContext)
    const idProducto = useParams().id
-   const { first } = useFilterProduct(data, (p) => p.id === idProducto)
+   const { first } = useFilterProduct({ data, condicion: (p) => p.id === idProducto })
 
    return (
       <>

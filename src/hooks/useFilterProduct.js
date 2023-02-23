@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 
-export function useFilterProduct(data, condicion, typeProduct = null) {
+export function useFilterProduct({ data, condicion, typeProduct = null }) {
 
    const [result, setResult] = useState();
    const [first, setFirst] = useState()
@@ -21,7 +21,5 @@ export function useFilterProduct(data, condicion, typeProduct = null) {
       result,
       first,
       filterProducts,
-      setResult,
-      setFirst
    }
 }

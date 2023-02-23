@@ -12,9 +12,11 @@ export const Producto = ({ typeProduct = "jardineros" }) => {
    const { data } = useContext(DataContext)
    const nameProduct = typeProduct[0].toUpperCase() + typeProduct.slice(1).toLocaleLowerCase();
    const { result } = useFilterProduct(
-      data,
-      (product) => product.tipo === typeProduct.toLowerCase(),
-      nameProduct
+      {
+         data,
+         condicion: (product) => product.tipo === typeProduct.toLowerCase(),
+         nameProduct
+      }
    )
 
    return (
