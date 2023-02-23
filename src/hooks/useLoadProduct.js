@@ -1,11 +1,14 @@
 import { useEffect, useState } from "react"
 
-export function useLoadProduct(url) {
+const URL_DATA = "../json/main.json"
+
+export function useLoadData() {
    const [data, setData] = useState()
 
    const conseguirDatos = async () => {
+      console.log("hola")
       try {
-         const rta = await fetch(url)
+         const rta = await fetch(URL_DATA)
          const data = await rta.json()
          setData(data)
       } catch (e) {

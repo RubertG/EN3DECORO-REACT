@@ -5,13 +5,12 @@ import './style/contacto.css'
 import './style/section-productos.css'
 import { RooterPrincipal } from './rooter/RooterPrincipal'
 import { DataContext } from './context/DataContext'
-import { useLoadProduct } from './hooks/useLoadProduct'
+import { useLoadData } from './hooks/useLoadProduct'
 
-const URL = "../json/main.json"
 
 function App() {
 
-   const { data } = useLoadProduct(URL)
+   const { data } = useLoadData()
 
    return (
       <DataContext.Provider value={{ data }}>
