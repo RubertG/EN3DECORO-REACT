@@ -6,7 +6,7 @@ import './style/section-productos.css'
 import { RooterPrincipal } from './rooter/RooterPrincipal'
 import { DataContext } from './context/DataContext'
 // import { useLoadData } from './hooks/useLoadProduct'
-import data from '../public/json/main.json'
+import data from './json/main.json'
 
 function App() {
 
